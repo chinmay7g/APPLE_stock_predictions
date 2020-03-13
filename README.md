@@ -3,7 +3,7 @@
 The stock datasets or stock charts in the exchanges have the common attributes: Open, Close, High, Low, Adj.Close,Volume.
 The attribute having the most influence in preditions is the 'Close' or the 'Adjusted close'. Adjusted Close means the closing price of the stock that day after taking into account all the corporate actions for that day.
 
-Following repository aims at predicting the stock prices of the 'AAPL' stock from the NYSE using various algorithms. The more important lesson I have learnt from this is the conversion of the date format from string format ot the ordinal format.
+Following repository aims at predicting the stock prices of the 'AAPL' stock from the NYSE using various Machine Learning algorithms. The more important lesson I have learnt from this is the conversion of the date from string format to the ordinal format.
 
 ![a4](https://user-images.githubusercontent.com/55191934/76598103-16923800-6528-11ea-83c7-5d6457f5747d.PNG)
 
